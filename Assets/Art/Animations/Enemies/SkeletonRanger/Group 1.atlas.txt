@@ -1,0 +1,230 @@
+
+Group 1.png
+size: 1934,1554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 608, 1440
+  size: 112, 928
+  orig: 112, 928
+  offset: 0, 0
+  index: -1
+BOW
+  rotate: false
+  xy: 2, 171
+  size: 404, 1381
+  orig: 404, 1381
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 1777, 1047
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1594, 611
+  size: 332, 331
+  orig: 332, 331
+  offset: 0, 0
+  index: -1
+Cape
+  rotate: false
+  xy: 608, 807
+  size: 709, 631
+  orig: 709, 631
+  offset: 0, 0
+  index: -1
+Coat Head
+  rotate: true
+  xy: 917, 246
+  size: 453, 429
+  orig: 453, 429
+  offset: 0, 0
+  index: -1
+Coat_Back
+  rotate: false
+  xy: 570, 693
+  size: 264, 112
+  orig: 264, 112
+  offset: 0, 0
+  index: -1
+Coat_Back_2
+  rotate: true
+  xy: 1348, 290
+  size: 319, 322
+  orig: 319, 322
+  offset: 0, 0
+  index: -1
+Front_Coat
+  rotate: true
+  xy: 1538, 1179
+  size: 373, 381
+  orig: 373, 381
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 425, 197
+  size: 490, 494
+  orig: 522, 500
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1672, 357
+  size: 252, 260
+  orig: 252, 260
+  offset: 0, 0
+  index: -1
+L_Armor_Hand
+  rotate: true
+  xy: 425, 825
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+L_Calf_Foot
+  rotate: false
+  xy: 1530, 944
+  size: 245, 233
+  orig: 245, 233
+  offset: 0, 0
+  index: -1
+L_Calf_Foot_Bonus
+  rotate: false
+  xy: 1319, 1184
+  size: 211, 254
+  orig: 211, 254
+  offset: 0, 0
+  index: -1
+L_Finger
+  rotate: false
+  xy: 1777, 973
+  size: 115, 72
+  orig: 117, 72
+  offset: 2, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 967, 703
+  size: 248, 102
+  orig: 248, 102
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: false
+  xy: 967, 703
+  size: 248, 102
+  orig: 248, 102
+  offset: 0, 0
+  index: -1
+L_Foot_Bonus
+  rotate: false
+  xy: 425, 976
+  size: 162, 128
+  orig: 162, 139
+  offset: 0, 11
+  index: -1
+L_Hand
+  rotate: true
+  xy: 425, 1106
+  size: 161, 163
+  orig: 167, 163
+  offset: 6, 0
+  index: -1
+L_Shoulder Armor
+  rotate: true
+  xy: 1348, 21
+  size: 267, 308
+  orig: 270, 311
+  offset: 3, 0
+  index: -1
+L_Thigh
+  rotate: true
+  xy: 1319, 705
+  size: 228, 273
+  orig: 228, 273
+  offset: 0, 0
+  index: -1
+L_Upper_Arm
+  rotate: false
+  xy: 2, 2
+  size: 301, 167
+  orig: 301, 167
+  offset: 0, 0
+  index: -1
+L__Forearm
+  rotate: false
+  xy: 805, 11
+  size: 247, 184
+  orig: 247, 189
+  offset: 0, 5
+  index: -1
+Line
+  rotate: false
+  xy: 408, 187
+  size: 15, 1365
+  orig: 15, 1365
+  offset: 0, 0
+  index: -1
+R_Calf_Foot
+  rotate: false
+  xy: 425, 1269
+  size: 179, 283
+  orig: 179, 283
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 1319, 935
+  size: 247, 209
+  orig: 259, 209
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: true
+  xy: 608, 10
+  size: 185, 195
+  orig: 185, 195
+  offset: 0, 0
+  index: -1
+R_Shoulder_Armor
+  rotate: true
+  xy: 1054, 3
+  size: 241, 283
+  orig: 241, 283
+  offset: 0, 0
+  index: -1
+R_Thigh_Foot
+  rotate: true
+  xy: 1672, 107
+  size: 248, 256
+  orig: 248, 256
+  offset: 0, 0
+  index: -1
+R_Upper_Arm
+  rotate: false
+  xy: 305, 2
+  size: 301, 167
+  orig: 301, 167
+  offset: 0, 0
+  index: -1
+Skeleton_Back
+  rotate: true
+  xy: 836, 701
+  size: 104, 129
+  orig: 109, 129
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: true
+  xy: 425, 693
+  size: 130, 143
+  orig: 130, 143
+  offset: 0, 0
+  index: -1
